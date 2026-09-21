@@ -1,7 +1,7 @@
 # Python Calculator
-# Hi, I'm Abdulrehman! 👋
+# Python CLI Calculator 🧮
 
-I am a **BS Artificial Intelligence** student at UMT. I'm currently focused on mastering Python, C++, and exploring the future of AI.
+A clean, modular command-line calculator built with Python, featuring input validation and error handling for arithmetic operations.
 
 ---
 
