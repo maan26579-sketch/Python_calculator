@@ -1,5 +1,5 @@
 # Python Calculator
-# Hi, I'm Mani! 👋
+# Hi, I'm Abdulrehman! 👋
 
 I am a **BS Artificial Intelligence** student at UMT. I'm currently focused on mastering Python, C++, and exploring the future of AI.
 
